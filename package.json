@@ -1,6 +1,9 @@
 {
   "name": "bao-template",
   "type": "module",
+  "scripts": {
+    "start": "bun index.js"
+  },
   "dependencies": {
     "baojs": "^0.2.1"
   }
