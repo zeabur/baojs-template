@@ -1,0 +1,7 @@
+{
+  "name": "bao-template",
+  "type": "module",
+  "dependencies": {
+    "baojs": "^0.2.1"
+  }
+}
